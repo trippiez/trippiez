@@ -1,5 +1,10 @@
 # Hi there 👋
 
+**`Python developer`**
+* 🌍  I'm based in MD
+* 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/)
+* 🧠  I'm learning Flask, Redis, Celery
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -19,12 +24,6 @@ class PythonDeveloper:
 me = PythonDeveloper()
 me.say_hi()
 ```
-
-**`Python developer`**
-* 🌍  I'm based in MD
-* 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/)
-* 🧠  I'm learning Flask, Redis, Celery
-
 
 ### 🧰 Languages and Tools
 
