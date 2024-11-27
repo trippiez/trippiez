@@ -3,7 +3,7 @@
 **`Python developer`**
 * 🌍  I'm based in MD
 * 🖥️  See my portfolio at [linkedin](https://www.linkedin.com/in/trippiez/)
-* 🧠  I'm learning Flask, Redis, Celery
+* 🧠  lrn Flask, Redis, Celery
 
 ```python
 #!/usr/bin/python
