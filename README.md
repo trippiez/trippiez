@@ -3,8 +3,7 @@
 **`Python developer`**
 * 🌍  I'm based in MD
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/)
-* ✉️  You can contact me at [@ssstqdm](mailto:@ssstqdm)
-* 🧠  I'm learning Flask
+* 🧠  I'm learning Flask, Redis, Celery
 
 ```python
 #!/usr/bin/python
