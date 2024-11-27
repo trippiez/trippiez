@@ -10,15 +10,15 @@
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=py" />
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=nginx" />
-<img src="https://skillicons.dev/icons?i=gcp" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=linux" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=py" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=django" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=fastapi" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=postgres" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=docker" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=nginx" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=gcp" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />
+<img align="left" style="padding-right:10px" src="https://skillicons.dev/icons?i=linux" />
 
 <br />
 
