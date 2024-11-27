@@ -1,4 +1,4 @@
-# Eric Ivanov
+# Hi there 👋
 
 **`Python developer`**
 
@@ -7,18 +7,18 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Eric Ivanov"
+        self.role = "Software Developer"
+        self.language_spoken = ["ru_RU", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_hi()
 ```
 
