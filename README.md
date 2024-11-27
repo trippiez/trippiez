@@ -41,13 +41,13 @@ me.say_hi()
 ### 🌐 Socials:
 <p>
 <a href="https://github.com/trippiez" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="border: none;" />
 </a>
 <a href="https://www.linkedin.com/in/eric-ivanov" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="border: none;" />
 </a>
 <a href="https://t.me/yourusername" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%231AABF1.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-%231AABF1.svg?&style=for-the-badge&logo=Telegram&logoColor=white" style="border: none;" />
 </a>
 </p>
 
