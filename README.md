@@ -59,4 +59,4 @@ me.say_hi()
 #
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trippiez&show_icons=true&theme=dark)<br/>
+![]([https://github-readme-stats.vercel.app/api?username=trippiez&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=trippiez&hide=issues,contribs&show_icons=true&rank_icon=github&theme=dark&hide_border=true))<br/>
