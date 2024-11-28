@@ -27,19 +27,24 @@ me.say_hi()
 
 ### 🧰 Languages and Tools
 
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=py" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=django" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=fastapi" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=postgres" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=docker" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=nginx" />
-<br />
-<img align="left" width="30px" style="padding-right:10px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=gcp" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />
-<img align="left" width="30px" style="padding-right:10px" src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=linux" />
-<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=bash" />
+<div style="display: flex; flex-direction: column; align-items: start;">
+  <div>
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=py" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=django" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=fastapi" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=postgres" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=docker" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=nginx" />
+  </div>
+  <div style="margin-top: 10px;">
+    <img align="left" width="30px" style="padding-right:10px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=gcp" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=linux" />
+    <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=bash" />
+  </div>
+</div>
 
 <br />
 
