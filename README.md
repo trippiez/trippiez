@@ -29,20 +29,20 @@ me.say_hi()
 
 <div style="display: flex; flex-direction: column; gap: 15px;">
   <div style="display: flex; gap: 15px;">
-    <img width="50px" src="https://skillicons.dev/icons?i=py" />
-    <img width="50px" src="https://skillicons.dev/icons?i=django" />
-    <img width="50px" src="https://skillicons.dev/icons?i=fastapi" />
-    <img width="50px" src="https://skillicons.dev/icons?i=postgres" />
-    <img width="50px" src="https://skillicons.dev/icons?i=docker" />
-    <img width="50px" src="https://skillicons.dev/icons?i=nginx" />
+    <img width="40px" src="https://skillicons.dev/icons?i=py" />
+    <img width="40px" src="https://skillicons.dev/icons?i=django" />
+    <img width="40px" src="https://skillicons.dev/icons?i=fastapi" />
+    <img width="40px" src="https://skillicons.dev/icons?i=postgres" />
+    <img width="40px" src="https://skillicons.dev/icons?i=docker" />
+    <img width="40px" src="https://skillicons.dev/icons?i=nginx" />
   </div>
   <div style="display: flex; gap: 15px;">
-    <img width="50px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
-    <img width="50px" src="https://skillicons.dev/icons?i=gcp" />
-    <img width="50px" src="https://skillicons.dev/icons?i=git" />
-    <img width="50px" src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
-    <img width="50px" src="https://skillicons.dev/icons?i=linux" />
-    <img width="50px" src="https://skillicons.dev/icons?i=bash" />
+    <img width="40px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
+    <img width="40px" src="https://skillicons.dev/icons?i=gcp" />
+    <img width="40px" src="https://skillicons.dev/icons?i=git" />
+    <img width="40px" src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
+    <img width="40px" src="https://skillicons.dev/icons?i=linux" />
+    <img width="40px" src="https://skillicons.dev/icons?i=bash" />
   </div>
 </div>
 
