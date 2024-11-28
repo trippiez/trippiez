@@ -27,26 +27,24 @@ me.say_hi()
 
 ### 🧰 Languages and Tools
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <div style="display: flex; gap: 10px;">
-    <img width="30px" src="https://skillicons.dev/icons?i=py" />
-    <img width="30px" src="https://skillicons.dev/icons?i=django" />
-    <img width="30px" src="https://skillicons.dev/icons?i=fastapi" />
-    <img width="30px" src="https://skillicons.dev/icons?i=postgres" />
-    <img width="30px" src="https://skillicons.dev/icons?i=docker" />
-    <img width="30px" src="https://skillicons.dev/icons?i=nginx" />
+<div style="display: flex; flex-direction: column; gap: 15px;">
+  <div style="display: flex; gap: 15px;">
+    <img width="50px" src="https://skillicons.dev/icons?i=py" />
+    <img width="50px" src="https://skillicons.dev/icons?i=django" />
+    <img width="50px" src="https://skillicons.dev/icons?i=fastapi" />
+    <img width="50px" src="https://skillicons.dev/icons?i=postgres" />
+    <img width="50px" src="https://skillicons.dev/icons?i=docker" />
+    <img width="50px" src="https://skillicons.dev/icons?i=nginx" />
   </div>
-  <div style="display: flex; gap: 10px;">
-    <img width="30px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
-    <img width="30px" src="https://skillicons.dev/icons?i=gcp" />
-    <img width="30px" src="https://skillicons.dev/icons?i=git" />
-    <img width="30px" src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
-    <img width="30px" src="https://skillicons.dev/icons?i=linux" />
-    <img width="30px" src="https://skillicons.dev/icons?i=bash" />
+  <div style="display: flex; gap: 15px;">
+    <img width="50px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
+    <img width="50px" src="https://skillicons.dev/icons?i=gcp" />
+    <img width="50px" src="https://skillicons.dev/icons?i=git" />
+    <img width="50px" src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
+    <img width="50px" src="https://skillicons.dev/icons?i=linux" />
+    <img width="50px" src="https://skillicons.dev/icons?i=bash" />
   </div>
 </div>
-
-<br />
 
 #
 
