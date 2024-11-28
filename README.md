@@ -36,6 +36,7 @@ me.say_hi()
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=gcp" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=linux" />
+<img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=bash" />
 
 <br />
 
