@@ -33,8 +33,10 @@ me.say_hi()
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=postgres" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=docker" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=nginx" />
+<img align="left" width="30px" style="padding-right:10px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=gcp" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />
+<img align="left" width="30px" style="padding-right:10px" src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=linux" />
 <img align="left" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=bash" />
 
