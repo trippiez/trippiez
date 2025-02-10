@@ -1,9 +1,5 @@
-# Hi there 👋
-
-**`Python developer`**
-* 🌍  I'm based in MD
-* 🖥️  See my portfolio at [linkedin](https://www.linkedin.com/in/trippiez/)
-* 🧠  Lrn Flask, Redis, Celery
+<h3 align="center">👋 Hi, I’m Eric</h3>
+<p align="center">I'm a Software Developer (Python)</p>
 
 ```python
 #!/usr/bin/python
@@ -24,6 +20,10 @@ class PythonDeveloper:
 me = PythonDeveloper()
 me.say_hi()
 ```
+
+* 🌍  I'm based in MD
+* 🖥️  See my portfolio at [linkedin](https://www.linkedin.com/in/trippiez/)
+* 🧠  Lrn Flask, Redis, Celery
 
 ### 🧰 Languages and Tools
 
