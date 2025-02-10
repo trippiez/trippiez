@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I’m Eric</h3>
 <p align="center">I'm a Software Developer (Python)</p>
 
-## About Me
+## 👨‍💻 About Me
 
 ```python
 #!/usr/bin/python
@@ -50,7 +50,7 @@ me.say_hi()
 
 #
 
-### 🌐 Socials
+## 🌐 Socials
 
 <p>
     <a href="https://github.com/trippiez" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -60,5 +60,5 @@ me.say_hi()
 
 #
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=trippiez&hide=issues,contribs&show_icons=true&rank_icon=github&theme=dark&hide_border=true)<br/>
