@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I’m Eric</h3>
 <p align="center">I'm a Software Developer (Python)</p>
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 #!/usr/bin/python
@@ -27,7 +27,7 @@ me.say_hi()
 * 🖥️  See my portfolio at [linkedin](https://www.linkedin.com/in/trippiez/)
 * 🧠  Lrn Flask, Redis, Celery
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <div style="display: flex; flex-direction: column; gap: 15px;">
   <div style="display: flex; gap: 15px;">
