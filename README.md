@@ -29,23 +29,6 @@ class QAAutomationEngineer:
             "E2E Testing",
         ]
 
-        self.stack = [
-            "Python",
-            "Pytest",
-            "Playwright",
-            "Requests",
-            "SQL",
-        ]
-
-        self.tools = [
-            "Git",
-            "GitHub Actions",
-            "Allure",
-            "Docker",
-            "Linux",
-            "Bash",
-        ]
-
     def say_hi(self):
         print("Thanks for stopping by — feel free to explore my projects.")
 
