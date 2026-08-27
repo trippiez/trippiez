@@ -1,21 +1,33 @@
 <h2 align="center">👋 Hi, I'm Eric</h2>
+
 <p align="center">
-  Python Developer focused on QA Automation
+  <b>QA Automation Engineer</b>
+</p>
+
+<p align="center">
+  Python • Pytest • Playwright • API • SQL • CI/CD
 </p>
 
 ## About Me
 
-```python
+```python id="x8v3mk"
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
-class QAEngineer:
+class QAAutomationEngineer:
 
     def __init__(self):
         self.name = "Eric Ivanov"
         self.role = "QA Automation Engineer"
         self.language_spoken = ["ru_RU", "en_US"]
+
+        self.testing = [
+            "UI Testing",
+            "API Testing",
+            "Integration Testing",
+            "E2E Testing",
+        ]
 
         self.stack = [
             "Python",
@@ -25,75 +37,98 @@ class QAEngineer:
             "SQL",
         ]
 
-        self.focus = [
-            "UI Testing",
-            "API Testing",
-            "Test Automation",
-            "CI/CD",
+        self.tools = [
+            "Git",
+            "GitHub Actions",
+            "Allure",
+            "Docker",
+            "Linux",
+            "Bash",
         ]
 
     def say_hi(self):
         print("Thanks for stopping by — feel free to explore my projects.")
 
 
-me = QAEngineer()
+me = QAAutomationEngineer()
 me.say_hi()
 ```
 
 * 🌍 Based in Moldova
-* 🧪 Focused on **QA Automation with Python**
-* 🔍 Interested in **UI, API & integration testing**
-* ⚙️ Exploring **test architecture, CI/CD and test infrastructure**
-* 🐳 Currently learning **Docker, Linux and CI/CD**
-* 💼 [LinkedIn](https://www.linkedin.com/in/trippiez/)
+* 🧪 Building reliable **UI, API & integration test automation**
+* 🐍 Writing automated tests with **Python & Pytest**
+* 🎭 Automating web applications with **Playwright**
+* 🔌 Testing REST APIs with **Requests**
+* 🗄️ Validating application data with **SQL**
+* ⚙️ Working with **CI/CD, Docker & Linux**
+* 🧠 Interested in **test architecture, Test Pyramid & Shift Left**
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
+
+### Test Automation
 
 <p>
     <img width="42px" src="https://skillicons.dev/icons?i=py" />
     <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=pytest" />
     <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=playwright" />
+    <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=selenium" />
     <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
-    <img width="42px" src="https://skillicons.dev/icons?i=postgres" />
-    <img width="42px" src="https://skillicons.dev/icons?i=git" />
 </p>
 
+**Python · Pytest · Playwright · Selenium · Requests · REST API**
+
+### Database & Infrastructure
+
 <p>
-    <img width="42px" src="https://skillicons.dev/icons?i=githubactions" />
+    <img width="42px" src="https://skillicons.dev/icons?i=postgres" />
     <img width="42px" src="https://skillicons.dev/icons?i=docker" />
     <img width="42px" src="https://skillicons.dev/icons?i=linux" />
     <img width="42px" src="https://skillicons.dev/icons?i=bash" />
-    <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=selenium" />
 </p>
 
-## 🚀 Featured Projects
+**SQL · PostgreSQL · Docker · Linux · Bash**
 
-### 🧪 Test Automation Framework
+### CI/CD & Tools
 
-> **Python · Pytest · Playwright · Requests · SQL · Docker**
+<p>
+    <img width="42px" src="https://skillicons.dev/icons?i=git" />
+    <img width="42px" src="https://skillicons.dev/icons?i=github" />
+    <img width="42px" src="https://skillicons.dev/icons?i=githubactions" />
+    <img width="42px" src="https://skillicons.dev/icons?i=jenkins" />
+</p>
 
-A test automation project covering multiple layers of a real-world web application.
+**Git · GitHub · GitHub Actions · Jenkins · Allure**
 
-* UI automation with Playwright
-* REST API testing
-* Database validation with SQL
-* Pytest fixtures and parametrization
-* API + UI hybrid scenarios
-* Allure test reports
-* Dockerized test environment
-* Automated execution with GitHub Actions
+## 🧪 Testing
+
+* UI Automation
+* API Testing
+* Integration Testing
+* End-to-End Testing
+* Functional & Regression Testing
+* Test Design
+* Test Pyramid
+* Shift Left Testing
+
+## 🚀 Featured Project
+
+### 🧪 QA Automation Framework
+
+> **Python · Pytest · Playwright · Requests · SQL · Allure · Docker · GitHub Actions**
+
+A full-stack test automation framework covering multiple layers of a real-world web application.
+
+* 🎭 UI automation with Playwright
+* 🔌 REST API testing
+* 🗄️ Database validation with SQL
+* 🧩 Reusable fixtures and test architecture
+* 🔄 API + UI integration scenarios
+* 📊 Allure reporting
+* 🐳 Dockerized test environment
+* ⚙️ Automated CI execution
+* 🧪 Smoke & regression test suites
 
 > 🚧 Currently in development
-
----
-
-### 🔌 API Testing Project
-
-> **Python · Pytest · Requests**
-
-API automation project focused on testing REST services, including positive and negative scenarios, authentication, validation and reusable API clients.
-
-> 🚧 Coming soon
 
 ## 🌐 Connect with Me
 
