@@ -116,9 +116,6 @@ A full-stack test automation framework covering multiple layers of a real-world 
 ## 🌐 Connect with Me
 
 <p>
-    <a href="https://github.com/trippiez" target="_blank">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/trippiez/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
