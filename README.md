@@ -15,7 +15,7 @@
 # -*- coding: utf-8 -*-
 
 
-class QAAutomationEngineer:
+class QAutomationEngineer:
 
     def __init__(self):
         self.name = "Eric Ivanov"
