@@ -44,7 +44,6 @@ me.say_hi()
 * 🔌 Testing REST APIs with **Requests**
 * 🗄️ Validating application data with **SQL**
 * ⚙️ Working with **CI/CD, Docker & Linux**
-* 🧠 Interested in **test architecture, Test Pyramid & Shift Left**
 
 ## 🛠️ Tech Stack
 
