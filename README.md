@@ -87,26 +87,6 @@ me.say_hi()
 * **[NearBeach](https://github.com/nearbeach/NearBeach)** — Playwright E2E tests for project creation using Python & Pytest.
 * **[InvenTree](https://github.com/inventree/InvenTree)** — API test development for a Django-based inventory management application.
 
-## 🚀 Featured Project
-
-### 🧪 QA Automation Framework
-
-> **Python · Pytest · Playwright · Requests · SQL · Allure · Docker · GitHub Actions**
-
-A full-stack test automation framework covering multiple layers of a real-world web application.
-
-* 🎭 UI automation with Playwright
-* 🔌 REST API testing
-* 🗄️ Database validation with SQL
-* 🧩 Reusable fixtures and test architecture
-* 🔄 API + UI integration scenarios
-* 📊 Allure reporting
-* 🐳 Dockerized test environment
-* ⚙️ Automated CI execution
-* 🧪 Smoke & regression test suites
-
-> 🚧 Currently in development
-
 ## 🌐 Connect with Me
 
 <p>
