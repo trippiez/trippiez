@@ -58,8 +58,6 @@ me.say_hi()
     <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
 </p>
 
-**Python · Pytest · Playwright · Selenium · Requests · REST API**
-
 ### Database & Infrastructure
 
 <p>
@@ -69,8 +67,6 @@ me.say_hi()
     <img width="42px" src="https://skillicons.dev/icons?i=bash" />
 </p>
 
-**SQL · PostgreSQL · Docker · Linux · Bash**
-
 ### CI/CD & Tools
 
 <p>
@@ -79,8 +75,6 @@ me.say_hi()
     <img width="42px" src="https://skillicons.dev/icons?i=githubactions" />
     <img width="42px" src="https://skillicons.dev/icons?i=jenkins" />
 </p>
-
-**Git · GitHub · GitHub Actions · Jenkins · Allure**
 
 ## 🌍 Open Source Contributions
 
