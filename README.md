@@ -46,7 +46,13 @@ me.say_hi()
 * 🗄️ Validating application data with **SQL**
 * ⚙️ Working with **CI/CD, Docker & Linux**
 
-## 🌍 Open Source Contributions
+## 💼 Experience
+
+### Python Web Development
+
+**2 years of experience** in Python web development.
+
+### 🌍 Open Source Contributions
 
 * **[NearBeach](https://github.com/nearbeach/NearBeach)** — Playwright E2E tests for project creation using Python & Pytest.
 * **[InvenTree](https://github.com/inventree/InvenTree)** — API test development for a Django-based inventory management application.
@@ -56,29 +62,29 @@ me.say_hi()
 ### Test Automation
 
 <p>
-    <img width="42px" src="https://skillicons.dev/icons?i=py" />
-    <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=pytest" />
-    <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=playwright" />
-    <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=selenium" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
     <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
 </p>
 
 ### Database & Infrastructure
 
 <p>
-    <img width="42px" src="https://skillicons.dev/icons?i=postgres" />
-    <img width="42px" src="https://skillicons.dev/icons?i=docker" />
-    <img width="42px" src="https://skillicons.dev/icons?i=linux" />
-    <img width="42px" src="https://skillicons.dev/icons?i=bash" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </p>
 
 ### CI/CD & Tools
 
 <p>
-    <img width="42px" src="https://skillicons.dev/icons?i=git" />
-    <img width="42px" src="https://skillicons.dev/icons?i=github" />
-    <img width="42px" src="https://skillicons.dev/icons?i=githubactions" />
-    <img width="42px" src="https://skillicons.dev/icons?i=jenkins" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 </p>
 
 ## 🌐 Connect with Me
