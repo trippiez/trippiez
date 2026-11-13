@@ -46,6 +46,11 @@ me.say_hi()
 * 🗄️ Validating application data with **SQL**
 * ⚙️ Working with **CI/CD, Docker & Linux**
 
+## 🌍 Open Source Contributions
+
+* **[NearBeach](https://github.com/nearbeach/NearBeach)** — Playwright E2E tests for project creation using Python & Pytest.
+* **[InvenTree](https://github.com/inventree/InvenTree)** — API test development for a Django-based inventory management application.
+
 ## 🛠️ Tech Stack
 
 ### Test Automation
@@ -75,11 +80,6 @@ me.say_hi()
     <img width="42px" src="https://skillicons.dev/icons?i=githubactions" />
     <img width="42px" src="https://skillicons.dev/icons?i=jenkins" />
 </p>
-
-## 🌍 Open Source Contributions
-
-* **[NearBeach](https://github.com/nearbeach/NearBeach)** — Playwright E2E tests for project creation using Python & Pytest.
-* **[InvenTree](https://github.com/inventree/InvenTree)** — API test development for a Django-based inventory management application.
 
 ## 🌐 Connect with Me
 
