@@ -48,43 +48,43 @@ me.say_hi()
 
 ## 💼 Experience
 
-### Python Web Development
+**QA Automation (Primary Focus)** — UI, API & integration test automation with Python, Pytest and Playwright.
 
-**2 years of experience** in Python web development.
+**Background:** 2 years of Python development experience, including web development and automation.
 
 ### 🌍 Open Source Contributions
 
 * **[NearBeach](https://github.com/nearbeach/NearBeach)** — Playwright E2E tests for project creation using Python & Pytest.
-* **[InvenTree](https://github.com/inventree/InvenTree)** — API test development for a Django-based inventory management application.
+* **[InvenTree](https://github.com/inventree/InvenTree)** — API testing for a Django-based inventory management application (in progress).
 
 ## 🛠️ Tech Stack
 
 ### Test Automation
 
 <p>
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-    <img width="42px" src="https://go-skill-icons.vercel.app/api/icons?i=api" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
 </p>
 
 ### Database & Infrastructure
 
 <p>
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 </p>
 
 ### CI/CD & Tools
 
 <p>
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-    <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
+    <img width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
 </p>
 
 ## 🌐 Connect with Me
