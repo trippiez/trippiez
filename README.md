@@ -54,9 +54,9 @@ UI, API & integration test automation with Python, Pytest and Playwright.
 
 **Open Source Contributions:**
 
+* **[InvenTree](https://github.com/inventree/InvenTree/pull/13260)** — API test for import row validation and correction.
 * **[django-helpdesk](https://github.com/django-helpdesk/django-helpdesk/pull/1499)** — Playwright E2E tests for public ticket creation.
 * **[NearBeach](https://github.com/nearbeach/NearBeach/pull/929)** — Playwright E2E test for project creation.
-* **[InvenTree](https://github.com/inventree/InvenTree/pull/13260)** — API test for import row validation and correction.
 
 ### 🐍 Python Development (Background)
 
