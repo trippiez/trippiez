@@ -1,3 +1,4 @@
+
 <h2 align="center">👋 Hi, I'm Eric</h2>
 
 <p align="center">
@@ -10,12 +11,12 @@
 
 ## About Me
 
-```python id="x8v3mk"
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
-class QAАutomationEngineer:
+class QAAutomationEngineer:
 
     def __init__(self):
         self.name = "Eric Ivanov"
@@ -81,16 +82,10 @@ me.say_hi()
 
 **Git · GitHub · GitHub Actions · Jenkins · Allure**
 
-## 🧪 Testing
+## 🌍 Open Source Contributions
 
-* UI Automation
-* API Testing
-* Integration Testing
-* End-to-End Testing
-* Functional & Regression Testing
-* Test Design
-* Test Pyramid
-* Shift Left Testing
+* **[NearBeach](https://github.com/nearbeach/NearBeach)** — Playwright E2E tests for project creation using Python & Pytest.
+* **[InvenTree](https://github.com/inventree/InvenTree)** — API test development for a Django-based inventory management application.
 
 ## 🚀 Featured Project
 
