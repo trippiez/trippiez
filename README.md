@@ -48,14 +48,20 @@ me.say_hi()
 
 ## 💼 Experience
 
-**QA Automation (Primary Focus)** — UI, API & integration test automation with Python, Pytest and Playwright.
+### 🧪 QA Automation (Primary Focus)
 
-**Background:** 2 years of Python development experience, including web development and automation.
+UI, API & integration test automation with Python, Pytest and Playwright.
 
-### 🌍 Open Source Contributions
+**Open Source Contributions:**
 
-* **[NearBeach](https://github.com/nearbeach/NearBeach)** — Playwright E2E tests for project creation using Python & Pytest.
-* **[InvenTree](https://github.com/inventree/InvenTree)** — API testing for a Django-based inventory management application (in progress).
+* **[django-helpdesk](https://github.com/django-helpdesk/django-helpdesk/pull/1499)** — Playwright E2E tests for public ticket creation.
+* **[NearBeach](https://github.com/nearbeach/NearBeach/pull/929)** — Playwright E2E test for project creation.
+* **[InvenTree](https://github.com/inventree/InvenTree/pull/13260)** — API test for import row validation and correction.
+
+### 🐍 Python Development (Background)
+
+2 years of experience in Python web development.
+
 
 ## 🛠️ Tech Stack
 
